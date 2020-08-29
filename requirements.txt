@@ -1,0 +1,20 @@
+# gym
+# # pip install -U ray
+# # pip install TA-Lib
+# TA-Lib
+# # brew install ta-lib
+# emoji
+# ray[rllib]
+# mpl-finance
+gym
+tree
+emoji
+pandas
+TA-Lib
+mpl-finance
+ray
+requests
+termcolor
+ray
+pandas
+matplotlib
