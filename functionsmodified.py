@@ -1,7 +1,5 @@
 """Functions used to preprocess the timeseries
 
-Lucas Draichi
-2019
 """
 
 import datetime
